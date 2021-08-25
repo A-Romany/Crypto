@@ -1,0 +1,9 @@
+spring.data.mongodb:
+  host: localhost
+  port: 5431
+  database: crypto
+
+
+csv.path: src/main/resources/Crypto task .csv
+
+
